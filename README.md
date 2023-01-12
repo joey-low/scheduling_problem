@@ -16,5 +16,5 @@
 
 #### 7 subjects which can be clashed is therefore split to 2 slots. With each slot consisting of 3 or 4 combinations of subjects which can be clashed, the combinations with minimum product of subject proportion is selected so the chance of a candidate sitting for 2 subjects which can be clashed within the same slot is at its minimum
 
-#### The number of days examinations should be held based on the analysis which covers 95% of the candidates is 47.5 days
+#### The number of days examinations should be held based on the analysis is 47.5 days
 
