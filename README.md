@@ -1,5 +1,3 @@
-### scheduling_problem
-
 #### This is an analysis which optimize the number of days examinations should be held given a number of candidates and choices of subjects
 
 #### The requirements is that no more than 30 exam can happen on a given day and it should happen in minimum days
