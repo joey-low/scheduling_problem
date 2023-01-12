@@ -1,4 +1,4 @@
-# scheduling_problem
+### scheduling_problem
 
 #### This is an analysis which optimize the number of days examinations should be held given a number of candidates and choices of subjects
 
